@@ -1,0 +1,7 @@
+{
+    "LIMIT": "3",
+    "BACKUP_DIR": "backup/",
+    "HISTORY": "history.txt",
+    "DATABASE": "<database>", 
+    "URI": "<uri>"
+}
